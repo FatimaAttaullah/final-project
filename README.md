@@ -10,7 +10,7 @@ Welcome to my personal project repository!
 
 | File | Description |
 |------|-------------|
-| **Ats format CV.word** | My detailed **Curriculum Vitae**. |
+| **Ats format CV.pdf** | My detailed **Curriculum Vitae**. |
 | **self presentation.pptx** | My **Professional Self-Introduction Presentation**. |
 
 💡 Explore the files to review my skills and professional experience.
